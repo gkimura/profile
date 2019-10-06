@@ -2,6 +2,7 @@
 # Gabriela Yukari Kimura
 
 Formada em Ciência da Computação pela Universidade Federal do Paraná (UFPR 2019). 
+
 Atual residente do HUB de IA do SENAI em Curitiba-PR. 
 
 ## Experiência
