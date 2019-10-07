@@ -1,7 +1,7 @@
 
 # Gabriela Yukari Kimura
 
-<img src = "IMG_55391.JPG", width=200>
+<img src = "./IMG_55391.JPG", width=200>
 ![img](IMG_55391.JPG)
 
 
